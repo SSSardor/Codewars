@@ -8,6 +8,7 @@ function towerBuilder(nFloors) {
         ' '.repeat(nFloors - i - 1)
       }`
     );
+    
   }
   return tower;
 }
