@@ -13,4 +13,4 @@ function alphabetPosition(text) {
    
     return arr.join(" ")
   }
-  console.log(alphabetPosition("234^&**(*^%^%%"));
+  console.log(alphabetPosition("234^&**(*^%^%%"));  
